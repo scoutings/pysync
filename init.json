@@ -1,7 +1,7 @@
 {
-  "source": "/Users/jumarion/repos/tbar3_justin",
-  "destination": "/home/tibit/repos/tbar3_rsync",
-  "host": "me",
+  "source": "",
+  "destination": "",
+  "host": "",
   "options": ["-a", "-v", "-r"],
   "exclusions": [".git/"]
 }
